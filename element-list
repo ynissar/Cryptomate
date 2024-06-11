@@ -1,0 +1,10 @@
+cryptoTrader.dataResult
+cryptoTrader.gui
+cryptoTrader.Login
+cryptoTrader.priceFetcher
+cryptoTrader.selection
+cryptoTrader.tradingManagement.broker
+cryptoTrader.tradingManagement.cryptocoin
+cryptoTrader.tradingManagement.strategy
+cryptoTrader.tradingManagement.trading
+cryptoTrader.viewer
